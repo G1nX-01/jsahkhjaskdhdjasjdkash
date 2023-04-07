@@ -1,0 +1,135 @@
+{
+    "ids": {
+        "178096639": "fdgdfhgfrdd",
+        "205693019": "AAAAAAAAAAAAAAA",
+        "208677124": "i ate jam 3",
+        "305179386": "Basics in Circles (VANILLA)",
+        "340216150": "Slot Machine",
+        "398568323": "nice",
+        "492545843": "Dead Crab",
+        "560105711": "dsasda",
+        "759752691": "Ungeneratabla generater",
+        "774851544": "X-TREME Dead Crab",
+        "839367079": "Great Wall Of Cheese One Player V1",
+        "840768009": "Deadly Randoms",
+        "850933285": "Pac man v",
+        "880250301": "Some weird killer robot design i made",
+        "919284139": "combinations",
+        "944193636": "Maze of invisibility",
+        "962209383": "dsadsadsadsa",
+        "972997011": "RTG (Vanilla Version)"
+    },
+    "codes": {
+        "Basics in Circles (VANILLA)": {
+            "head": "Basics in Circles (VANILLA)",
+            "val": "K3:Basics in Circles:Paraboles when pushed will divert on the opposite(?) side, but it will be also pushed itself... essencially allowing you to create this!;c;h;1;eNrTMNTRgCETMNBAEoGKB5oAEZIaAyAAKzSJtSnISUxOTUzKSbUxQOFAAZGqTHCrSQLKxxhqFJaCFAaa4DdMIzNfI7MAv4EQdUUamYWE1YEsroTSJXhtt4D7hKB3YUFJbXV4rSaS",
+            "date": "18/03/2023 - 14:55",
+            "isvanilla": "on",
+            "banned": "Has an invalid K3 code."
+        },
+        "Ungeneratabla generater": {
+            "head": "Ungeneratabla generater",
+            "val": "K3;1g;1g;1;eNrtll9rglAYhz9LF4GDNqyOluKwjUK2qKw1Vg0MTVeu5p9yK4T67NuuBuc9F13Jxn4PXsjDUfy95/VVWQYAAAAAAAAAAAAAAADwLzCS8GDIz0bihlFmXLBakMbERaMu7+pW+kHcoeYTp/jk2pp+zM5yQbbjXVVR5kWWQxDd9d0978K2uubdy8bWyLXXrUveaYH9xLvm0BvxTlEeJpyrmx4rsBqiTRclXwzGpBE0q5Ock7wxXJBGUJ01I67EKqQ59q27Issh6PfgKvVIpMghJWpG3RWJZJqDSlnS5l9HkTEEr6im70ifsqC/JD0ZtElHqNZ7KnmJxMaFRxFNES2weqT6iuwYUZytwmhpyIufU4k9/oqHbs5yk7SRU1WJi++rdB1zaeDbLSnMVO/zzn/Lb8hbNT0uC/0C0akvGH3CAdBQKjaJHr+eeOexYSyInpP7TSdlfuTq+abAanx/7wRDXzT5znLWZkac3TuJ9lwQnCxjpQ7+oQAAAAAAAADgL/MJHLkGQQ==;",
+            "isvanilla": "on",
+            "date": "25/03/2023 - 09:56"
+        },
+        "Great Wall Of Cheese One Player V1": {
+            "head": "Great Wall Of Cheese One Player V1",
+            "val": "K3;a;9;0;eNrTSCo3MYACjUQtGCutWCMtN9rQAC6Vlgri+SLkkdgYUmi6NBKtYHyQmSAVGkjWAgDjLx7H;",
+            "isvanilla": "on",
+            "date": "26/03/2023 - 20:54"
+        },
+        "fdgdfhgfrdd": {
+            "head": "fdgdfhgfrdd",
+            "val": "K3;e;e;0;eNozMdGwrLZJzs9LSU/NSy1KLMkvsjGINtQw1o82MoACm+zMvHQbAxMw8IRiCNDICQSpgLCTysF0CkwuUcsEZoRGWm60oQVQnUGMoUahrwFCvBibYCpOxRppnr4kKAe5wgrTFTCn4gLAMEkGKk+PjDY0jjYyjjZOjjYxjjb1p5aITUFiaXEqKEgBjO5gYw==;",
+            "isvanilla": "on",
+            "date": "29/03/2023 - 14:54",
+            "banned": "This level isn't vanilla, but the checkbox was ticked anyway."
+        },
+        "combinations": {
+            "head": "combinations",
+            "val": "K3:combinations:combine 2 cells next to the generator to pass this level;u;b;2;eNozMAABXwPsINamICcxOTUxKSfVRsNSL9rQINrIINrYINpEw1QHWdICmWNTnFGZm1+WWmSDz2wDA/JlNQx14AghGhgIobC5HpWjkVpsEGOoUVgMNMokkiJLKPEGJbIAm5ti9g==;",
+            "isvanilla": "off",
+            "date": "29/03/2023 - 14:24"
+        },
+        "i ate jam 3": {
+            "head": "i ate jam 3",
+            "val": "K3;u;u;0;eNrtWjESwjAM+w4Ld+qdx3yCnaVXGBigHEMXPs8bei21pWjU0iaRZctOLrgObZkft2le7p+GVTDUIRjglh0Fw5opGNyRhR0Z/N9JZjFYJDYiicEti6zJIEpGuxlMYdAapGMwK5kXYbCI60MN10fBIEWvcZhCKRjUgwIaDLleI6t46XX0AjVUXoO9dV4CdbA3BvXctTyDjJ8q4r316uCq/575dwR+pwp+Dwy5QELSBBLqV7p6syD5Icxp+FqF0sPOzlUYHmdqaRDq4R1JrtAM0l2QOovSDZbsZNhHg4e9wUFn7TJqHLth/awCQ63MYEin7vYep+f4cmATwh8sLVOt;",
+            "isvanilla": "on",
+            "date": "29/03/2023 - 16:15",
+            "banned": "The level isn't vanilla, but the checkbox was ticked anyway."
+        },
+        "Dead Crab": {
+            "head": "Dead Crab",
+            "val": "K3:Dead Crab:Click the blue generator to fire bullets, and use WASD or the arrow keys to move your mech.;9;f;1;eNp9TkEOAiEM/M4eh2yPfYIH7+uFBUI27kJEEuPvbcGg8WBoOpNh2ikAEBE6cMo1MBYzUxcI+kdcbPL5KLnamgsD7IpdxcghheNZbWSz8H3bQ3LBs8HvgC7pK7XhYqbbeUCT9P0j7ZZ2Ek2r5O+bu0ZJLy1gFk09Au/yp8HR8aHdxMGBj/urgBdklkn/;",
+            "isvanilla": "off",
+            "date": "30/03/2023 - 17:09"
+        },
+        "X-TREME Dead Crab": {
+            "head": "X-TREME Dead Crab",
+            "val": "K3:X-TREME Dead Crab:Press the orange generator to fire bullets, and use WASD or the arrow keys to move your mech. It's a little more harder this time :);9;f;1;eNplTjEKwzAMfE3B45l41NK9Q/d0cRJhComdKi6hv6/lpGmhspCOQ3c+wGmhlCPxcUiTpOxzEkJLM8vM+enHwpF1FFPmwttGBc4ZfzI2QOV/YlAvvlOT5T5y7Hkg2xJHnl7ZB7I4q2rz0YGbNY/rsSrtNmsT1gJN2BXuo9Cn8StTynSgWXhZQvlGaoymcDVph72Hy4Gx7VWnDQcGvtc/DbwBYU1S8g==;",
+            "isvanilla": "off",
+            "date": "30/03/2023 - 18:41"
+        },
+        "Some weird killer robot design i made": {
+            "head": "Some weird killer robot design i made",
+            "val": "K3;e;9;0;eNqzSUlNTMmpzEksTi2yMdZINrAhUcAAAlAEjTSSDJARiiRUgwHQJKiCItVoQwNLECvZgCLj0NxmiE0Alx05BkCI1WQ40DDUQUZYxME+ibYpzsxJzUtOTQFaiKrMJrkoMckGRYUjMsdAI9EXmQ8Asxp61Q==;",
+            "isvanilla": "off",
+            "date": "30/03/2023 - 20:43"
+        },
+        "RTG (Vanilla Version)": {
+            "head": "RTG (Vanilla Version)",
+            "val": "K3:RTG;1g;1g;1;eNrtWm1LwzAQ/jViPgy5pNetgyGIuC/+hAijrrUVRCYqfvDP27dk62pRwbuW7h5KeUhDn9xdmkuOAvQC1S60WgUf1mheikADhDutXj6tBkd0RTZWG0cCR3zn0JG5IwvXJ3Jk6UhMMnalZ/XlB5XRETILsrPi7dYondoALKpwZlevj0/p8zZNVoX4Rfn4oAWdU3M6whGuEVvgRwrUqKKvy+ivXfSriOcs4mxmCgQCgeB474VIr1BlFHWpyaXUDgshc20NNJphs30qWLeFz3SDE4ikQCAQCAQC4mRebRweyHN6JbP1VQul13tePkqoDW3LpbQVoNZmaa/kGam765DGvy2l1d3v2905AjGiil3Lc9FhzOqmJZt38KjE27addN6oZWEpFEcaX6DrNMSb7uiQ5wsawiN18Ofd+bA47S8Ef15PQpzYqtpJIQFTCmlyJ/TnTs2zSTBy8BcIBIIa5SL8Jne5//NdIBBMHv6vlO5FqHrjzw7RXw6VV7SjGsYXbLuEnl/unHezbwjPmACYFMfvBzgRzaF8zbaiMugkvg6aT8Mq1gW3dN27n3UqPlfJ7ReLz5Qu;",
+            "isvanilla": "on",
+            "date": "31/03/2023 - 02:53"
+        },
+        "Maze of invisibility": {
+            "head": "Maze of invisibility",
+            "val": "K3:Maze of invisibility:Travel in this maze with no knowledge of your position;1g;1g;1;eNrt3bsuQEEQBuDXUSjovYReokChkig8P4lEJSKcszsz/5do/gJn575z24vH+6u765u3l+fHh5e3p9ebq/PgxfXlx8+yfwf+zAunWPklJL+pCGEcyPSlkWslebFSCBoiQmd722PpUOqvEd1ep/iDqG8kxZgwuJQBYeGryXmpsPDTpAv/xMN/0ClUcg/NuVj1dRmTfh1sQepMIVHSouCNJAqnFt8Tvw1RfpP3wKlGsZl6Lggq/Yg8OQhRPSjXCsrtSJKDyAWC9A4x9flw2cMYrb8dNGO1RnHIc6aBrdbj1KvVdmpZmSsUOesb6XvGkMEWugOyGz4MJOR1WvX4HaZDwwbeDbja02LDziBFwFMEkSeXCitY6Ky8HeuQ2pb6V/K8z96qQaPBw77lFaXb7Z1grtjicPNuDCM4eztxZTtP2tkKENx4HWOFYi+wmWvYRSaGsEAQBAWT6o8yhAPWpNuZzL4J9U8iC7G0rZcrZFfxsYhtQWEwcLMWu2QdQVT73NQdehRZkxVO0Wh1TxlRuoYvyGVUgRTR38FVYGveXf0Ig4bVghO4skzJr26xqFEvXAjtSLiZR3xX+SJRRpxIr+JFX3fW91+HxLR6YDq+jWXVs2CmxUaywckcSiHgNJ9LOH0nSAVy3qUlGA7lX0vNidN0tNJTWnmqjOU8H8BeoQ8T4Yy97lnaXKkD+oDYBE6dOSLMfZt5zniJUpSeM/RH92UFsQZrdPvbW2hKHey7DFPUiiZgZnN1r20GtJJhN2s2KXch9vBhJnOdwmQrSNhIl7allXEdQVLNNB4Ockns4ewgR3HTZ4PEI9PmaCOxEKm7hJMrll/nlSkPwg9iRGykhDu8j0O5PIL0C6nNpyhKutCBcqQgCHJGtmqL6kFX+2ObPOmCIabZa0K1BHv+pkVLSTXrnfOkICe4N6WJ/mRGoyCbpi2ZQILejMB00KAcT4G81IpK4tSYDF5mDSukw4olXJwBVs3kyPQG+OzwZvXMwShavL7fgFmwvs9Bwt/f4T7kCYkrh8h7JixepuNs4NR7Wd8YwCZJUHocpOlYY88AMfhZDEIcQeUgKieracywF9GMKsxu3FpsFUtRUkREtdHW7dK5jJOvTICzfi5iZ6RnNfnIMIAoj1wg0SLkh8TSdL/47QOD+jYsydW4TdNZdizco2E9F0MGVAq2R1+EkJJOLUbwwlwnHe+eolxQHP/6sZOnxX1nMXH2Rk3bn0pnHtlhUFOZcLq+szBYAdbfxUQSFuspgnM9JuMCp9Qlylz9QHYstvmTHhES1EN5ELkUvp3CKlqtMuD4bqvWzy1Neklhe/cClyfNYi9ECztGyEG9CrpBaNay+u/UaeK9kqxbY/AyvZCXzoxPcvoguH4+y/bL2Q0Y/+e4rjYOF5fBMXtuJ70xQVQyBX5q0kMVw6GKL0LP+Wt9jUZINVxNOTkkk2wUTuBpTlfVVKdmHwLbxVxjIoIMyCwRpOLbC/Wce3ePNoGz351HQ1ADIQgqtnr92aAEOCxMGrx+0ynEVyA2IRdG7HVqxEYlGgQ5OJkNcMZ1ZuoSEhECap+0AhEXQFdLfgTRWiyJMqcm8EBMfETbA5/Ji920ELIdEbSplbVMfsUjUxNzRmbAqTs8jWlMcujVBv+ZLIGKt/PwGiRL7Z5RcOtU72acwajdXNLOyVXgUtY+dlkuyCYEThjhrPZg6zpRm3+xJPnAePj2HQLa8pc=;",
+            "isvanilla": "off",
+            "date": "01/04/2023 - 18:33"
+        },
+        "Pac man v": {
+            "head": "Pac man v",
+            "val": "K3:Pac man v1:By ETHAN1918;1g;1g;1;eNrtnM9uwjAMxt9m625l4thL9wY7s0uF2LQhqk0FSnn6cdgOoMGUNokd5/eJQyNL+eM4ie18oSwBAAAAAAAAAAAAAEgU83+QUBuL6rN5b7dV+TIrvo6/pYf5411zfy58QhhMuB8tRH3hhP2FMMiaq88bKZrnRbVqV5th27xVsySK5wPa3VJpZ220tbyNOOzh4/eZXr4L3vo3wULTGqgCW1C3Pq5O/l9frgbhVHmAZlLrr4/K1VnYcGt2tqOFB/kuxOlfNgON04UaLzbTIp7qpC5od3n36M+0p6rg7PDmaAYYyzXfEc3k7SHIZKNyalWd1zEozxxPDY5JjU1LEai71zqEXhXuXwHyaOQT/Ga23GfXkl0lc30UaEfFGoKdRy4befH6cfqpchQMWJLK+3+RE+hicn5UFSaJ4G2AGqbOk00W6z6F9K27XYgV130m+4VI5tTzfhEno2tov0jSGxrskPQOeFDGIrPyVNNy07RVSRSWUxRm95rUeuR2JHKzeMdpN3aE2Q+zH74UzH6Y/dnzpdQxdyBZewvrc+VL5XVsJ+DgCNjPztCBCxM7nv4UuFCd+PrQdwbDxJbVTBx/qYOJDRObfIbAeQvtOp5myE9EC6PVCbNJYCSted6M82Y839dbCBHaextm4h8rAQAAAEF8A8HxODg=;",
+            "isvanilla": "off",
+            "date": "02/04/2023 - 13:53"
+        },
+        "dsadsadsadsa": {
+            "head": "dsadsadsadsa",
+            "val": "K3:Dead Crab:Click the blue generator to fire bullets, and use WASD or the arrow keys to move your mech.;9;f;1;eNp9TkEOAiEM/M4eh2yPfYIH7+uFBUI27kJEEuPvbcGg8WBoOpNh2ikAEBE6cMo1MBYzUxcI+kdcbPL5KLnamgsD7IpdxcghheNZbWSz8H3bQ3LBs8HvgC7pK7XhYqbbeUCT9P0j7ZZ2Ek2r5O+bu0ZJLy1gFk09Au/yp8HR8aHdxMGBj/urgBdklkn/;",
+            "isvanilla": "off",
+            "date": "02/04/2023 - 21:43"
+        },
+        "dsasda": {
+            "head": "dsasda",
+            "val": "K3:Dead Crab:Click the blue generator to fire bullets, and use WASD or the arrow keys to move your mech.;9;f;1;eNqlkM0KAjEMhF8nx9TtcS7efYOe+mdZ7LZYC4v48u4WXcU99GBgIJkhXyBSvgspVw9WYtiN3ByWKDq5PJVcdc0FDFu0wUHBJz/dqw4QCrcx+mS9g2ASjyb+XZRM5kruJBeRyXsyr3sd/B/kpg6+S97eQmF+tRSOm/uJzQwbR3sJy6HSYMPicas1POsYv6wnzGR9/A==;",
+            "isvanilla": "off",
+            "date": "02/04/2023 - 22:49"
+        },
+        "AAAAAAAAAAAAAAA": {
+            "head": "AAAAAAAAAAAAAAA",
+            "val": "K3;1g;1g;1;eNrtwwEJAAAIwLBKBngZ+5cQzLHB2iZVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVfUfXeFx6Q==;",
+            "isvanilla": "off",
+            "date": "03/04/2023 - 18:07"
+        },
+        "Deadly Randoms": {
+            "head": "Deadly Randoms",
+            "val": "K3:Deadly Randoms:PROOF OF CONCEPT, ISN'T ACTUALLY RANDOM YET;T;O;1;eNrtV0uPmzAQ/isT9bBUykZAvHvyZdVDVVU97qFlq5UDE3BxbIJN06h/vgZ2G/La5ZEVPdSyIhCeb8Yz3zziuv3Wg0cN/jLUDexDwjVkKjdMQFasMg2qMIASVxw1DXxKL6CEyQiWOUcZiS1oxBTzIdiONz3c2U3gOTd3ge85t48HHwcBi28PnrN+F3je8ceewBmxts6vA993lrxE/x14rsM+Wx2Bf3C4p4pnH1wE7PzuEDNCSBN5PbN3ttEKqOYCZYgR9ToCOl68g6x86n+w/gtoSd6tYTHdQ3c7wRPi+GltcsPi/uYSG5JoT/r2sYLv505Crt1nXro7Cn0KPD/w590zipDn+PxfA1ez7i0Q1gUPUzCJKuJkBnwJW1VApOSVgRxZmAA3oCQYvsKpPYYQK1uJN1wIsNKFZGGImi8EzoYU416L9Fmta8co+98376xjv5Rpbqo2URbO6q1KfXP6/F9Ee+WF6+B9uRf7THXWukWZ3eFYhNAtN37tkAURsrLvC6Zt26+pLZU5ovO+xZtaGTUqjgVWsnYkMQZz2iUD01JbmXJ15l3lNqc0l/HL2nf3vO80SiHohKOIZq9c7hLhaJeOT86v/EdP4oxA9KZXxzSENOpcJ7/uiX+nmWAhMlujP9IObw2UJotKsibsJwJ7ItMUFoVpWfzf3LKQySqDbQrZlDYsxaqBLZe9DBxu0yZBCRK1Rs3y7WwsN40cmR+FNpDl1g3VCCFwaYDludqAyuHuZa+caOGHveX1e5Jq9pzbvzTHFa2B1vW3jeaD6eMM0Tqxcoh4MyyinuYmk0kjAm9mWFOzw4RWwFO766myLiUQ2VkylqCLMNXAtH5/jhoX9MgA8XMlt51450YwEuyJGfoPVtz3DQ==;",
+            "isvanilla": "off",
+            "date": "07/04/2023 - 03:25"
+        },
+        "Slot Machine": {
+            "head": "Slot Machine",
+            "val": "K3;1g;1g;b;eNrt0D0KAkEMgNHrbJkZ/5rB3jNMNcjK2q7eH8Ey29gICu9Bmq9JSAQ/aBqXXqLX0q7LWB/L/fac1xa9nHI45nDIYZ/DLoeaw2Zt5DCdyzbV8b679Pq1x7TRPhoAAAAAAAAAAID/9wJifZr+;",
+            "isvanilla": "off",
+            "date": "07/04/2023 - 13:48"
+        },
+        "nice": {
+            "head": "nice",
+            "val": "K3;1g;1g;1;eNrt0CEKgFAURNHNGF4RJrzFmC0Gs65f3IFBPijnhKkXJgEAAAAAgO+oPqvn2pd7+xiSmwaEki0aGhp/b/Dc6gIAAF5xAVO2WgU=;",
+            "isvanilla": "off",
+            "date": "07/04/2023 - 14:45"
+        }
+    }
+}
